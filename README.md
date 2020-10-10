@@ -15,3 +15,10 @@ https://github.com/ShogoHirasawa/group-journal/blob/main/%E4%BC%81%E7%94%BB%E5%8
 このリポジトリ上のプロジェクトにまとめています。（以下URL参考)   
 https://github.com/ShogoHirasawa/group-journal/projects/1
 
+# 今後の予定   
+10月中 メンタリング、プレゼン資料作成   
+10月31日（土）17:00 ～ 18:00　リハーサル（画面共有、マイクの試験等）   
+11月3日（火）プレゼン資料提出締切   
+11月7日（土）16:30 オンライン集合、17:00 オープニング、21:00終了   
+
+
