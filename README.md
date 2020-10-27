@@ -13,7 +13,13 @@ https://github.com/ShogoHirasawa/group-journal/blob/main/%E4%BC%81%E7%94%BB%E5%8
 
 # 進捗
 このリポジトリ上のプロジェクトにまとめています。（以下URL参考)   
-https://github.com/ShogoHirasawa/group-journal/projects/1
+https://github.com/ShogoHirasawa/group-journal/projects/1   
+
+発表用パワポ   
+https://docs.google.com/presentation/d/1McX3n7MSq-FtBvnjj5FZCSuWIU1f2A3tf88lrn5GWMk/edit?usp=sharing
+
+デモサイト（発表用に作ったやつ)   
+https://github.com/ShogoHirasawa/Millennial
 
 # 今後の予定   
 10月中 メンタリング、プレゼン資料作成   
