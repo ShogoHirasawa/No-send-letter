@@ -1,5 +1,5 @@
 # group-journal
-# 企画名: 転売交換日記
+# 企画名: 送らない手紙
 > 企画草案   
 企画概要については以下を参考にしてください   
 https://github.com/ShogoHirasawa/group-journal/blob/main/%E4%BC%81%E7%94%BB%E5%8E%9F%E6%A1%88.pdf
