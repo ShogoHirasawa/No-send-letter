@@ -9,10 +9,13 @@
 =コロナ化で人と疎遠になるなか、人の暖かさや、つながりを感じられるものを作りたい
 
 # 進捗
-このリポジトリ上のプロジェクトにまとめています。（以下URL参考)   
+https://github.com/ShogoHirasawa/No-send-letter/projects   
 
 # プロジェクト概要   
 https://youtu.be/y_1vmPsTq9Q
+
+# 直近の課題   
+サイトデザインを考える（記入日: 2020/12/14)
 
 
 
