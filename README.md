@@ -10,12 +10,8 @@
 
 # 進捗
 このリポジトリ上のプロジェクトにまとめています。（以下URL参考)   
-https://github.com/ShogoHirasawa/group-journal/projects/1   
 
-発表用パワポ   
-https://docs.google.com/presentation/d/1McX3n7MSq-FtBvnjj5FZCSuWIU1f2A3tf88lrn5GWMk/edit?usp=sharing
-
-デモサイト（発表用に作ったやつ)   
+# プロジェクト概要     
 https://github.com/ShogoHirasawa/Millennial
 
 
