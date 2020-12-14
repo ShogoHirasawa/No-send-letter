@@ -11,8 +11,9 @@
 # 進捗
 このリポジトリ上のプロジェクトにまとめています。（以下URL参考)   
 
-# プロジェクト概要     
-https://github.com/ShogoHirasawa/Millennial
+# プロジェクト概要   
+https://youtu.be/y_1vmPsTq9Q
+
 
 
   
